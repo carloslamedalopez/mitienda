@@ -13,7 +13,7 @@ export default class AssetExample extends Component {
     );
   }
 }
-
+ 
 const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
